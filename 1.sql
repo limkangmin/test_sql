@@ -1,3 +1,3 @@
 select  *
 FROM nba
-LIMIT 3
+LIMIT 5
